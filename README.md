@@ -1,7 +1,14 @@
 # Conservation-Prioritization-Tasmania
 experiments on how to prioritize zone selections for conservation planning
 
-![](https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/OptPrioAnimation.gif)
+<div align="center">
+  <img src="https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/OptPrioAnimation.gif"
+       alt="HTML image alt text"
+       title="Optional image title"
+       width="100px"
+  />
+</div>
+
 
 
 ![](https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/HeuPrioAnimation.gif)
