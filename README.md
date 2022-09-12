@@ -1,11 +1,11 @@
 # Conservation-Prioritization-Tasmania
 experiments on how to prioritize zone selections for conservation planning
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/OptPrioAnimation.gif"
        alt="HTML image alt text"
        title="Optimal Prioritization"
-       width="300px"
+       width="350px"
   />
 </div>
 
