@@ -13,4 +13,4 @@ experiments on how to prioritize zone selections for conservation planning
 </div>
 
 
-![alt-text-1](OptPrioAnimation.gif "title-1") ![alt-text-2](HeuPrioAnimation.gif "title-2") ![alt-text-3](ScenOptAnimation.gif "title-3")
+![alt-text-1](OptPrioAnimation.gif "title-1" | width=300 ) ![alt-text-2](HeuPrioAnimation.gif "title-2"| width=300) ![alt-text-3](ScenOptAnimation.gif "title-3"| width=300)
