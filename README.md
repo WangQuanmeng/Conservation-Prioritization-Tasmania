@@ -4,8 +4,8 @@ experiments on how to prioritize zone selections for conservation planning
 <div align="center">
   <img src="https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/OptPrioAnimation.gif"
        alt="HTML image alt text"
-       title="Optional image title"
-       width="100px"
+       title="Optimal Prioritization"
+       width="300px"
   />
 </div>
 
