@@ -12,7 +12,3 @@ experiments on how to prioritize zone selections for conservation planning
   <img src="https://github.com/WangQuanmeng/Conservation-Prioritization-Tasmania/blob/main/BackGreedyAnimation.gif" width="300"/>
 </div>
 
-
-![alt-text-1]( OptPrioAnimation.gif  ) ![alt-text-2]( HeuPrioAnimation.gif  ) ![alt-text-3](ScenOptAnimation.gif )
-
-![alt-text-1]( ForGreedyAnimation.gif  ) ![alt-text-2]( BackGreedyAnimation.gif  ) 
